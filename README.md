@@ -5,10 +5,10 @@
 -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilufar+Egamberdiyeva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nilufar+Egamberdiyeva!;+I am a student of NamMQI" />
 </h1>
 
-<h3 align="center">I am a student of NamMQI</h3>
+<h3 align="center">I like programming, because it's fun!</h3>
 
 <!--
 **n1lufar/n1lufar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
